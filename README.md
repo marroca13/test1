@@ -1,2 +1,6 @@
 # test1
-Push para subir las versiones clonadas desde Atom
+
+FICHERO DE TEXTO README MODIFICADO
+
+ja jajaja jaja jaja
+yuttitit
